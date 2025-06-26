@@ -47,4 +47,4 @@ Given only the 'type' and 'label' columns:
 
 .. code-block:: bash
 
-    python main.py -i data/sample_without_group_key_columns.tsv -d "NOM"
+    python main.py -i 'data/sample_without_group_key_columns.tsv' -d "NOM"
