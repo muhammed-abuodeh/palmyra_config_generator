@@ -1,0 +1,17 @@
+type	label
+pos	NOM
+pos	VRB
+pos	PRT
+pos	PNX
+pos	PROP
+pos	ERR
+pos	---
+pos	VRB-PASS
+relation	---
+relation	IDF
+relation	SBJ
+relation	OBJ
+relation	PRD
+relation	MOD
+relation	TMZ
+relation	TPC
