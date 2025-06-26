@@ -22,10 +22,13 @@ Installation
 
 Creating the configuration input
 --------------------------------
-A tsv file is required to generate the configuration file. You can refer to either sample.tsv or sample_without_group_key_columns.tsv.
+A tsv file is required to generate the configuration file. You can refer to the sample tsv files in the data folder. 
+The sample_output.config is the result of passing sample.tsv.
 
 
 The only required columns are 'type' and 'label'. If you add a 'group' column the labels will appear grouped in Palmyra.
+
+The 'type' can be 'pos' or 'relation'.
 
 
 The 'keys' column gives the ability to use keyboard shortcuts when annotating. If this column is not added, the generator
